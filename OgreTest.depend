@@ -1329,3 +1329,18 @@
 	<Ogre.h>
 	"OgreTest.h"
 
+1336160294 source:/home/darkar/Projets/Programmation/C++/Shade Linux/src/main.cpp
+	<ExampleApplication.h>
+	<Ogre.h>
+	"OgreTest.h"
+	"windows.h"
+
+1336159248 /home/darkar/Projets/Programmation/C++/Shade Linux/src/OgreTest.h
+	<Ogre.h>
+	<ExampleApplication.h>
+
+1336162875 source:/home/darkar/Projets/Programmation/C++/Shade Linux/src/OgreTest.cpp
+	<ExampleApplication.h>
+	<Ogre.h>
+	"OgreTest.h"
+
